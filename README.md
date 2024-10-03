@@ -1,8 +1,8 @@
-[![header](./banner.png)](https://aar.one)
+[![header](./banner.png)](https://fudong.dev)
 
 # Hello, World! I'm Jack 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=ahrwn&label=Profile%20views&color=60598F&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=qinscode&label=Profile%20views&color=brightgreen&style=flat&base=314)
 
 <div class="github-introduction">
 
@@ -31,8 +31,8 @@ Additionally, I'm currently diving into the world of DevOps, expanding my skill 
 
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aaronedev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="aaronedev's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaronedev&theme=tokyonight&hide_border=true" alt="aaronedev's Streak" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=qinscode&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="qinscode's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=qinscode&theme=tokyonight&hide_border=true" alt="qinscode's Streak" height="165">
   </p>
 </div>
 
@@ -55,7 +55,7 @@ Whenever I write documentation, I try to keep the following steps in mind to ens
 
 ### <p align="center">⚙️ My development environment </p>
 
-> I grew up with Windows and it holds a special place in my heart. It’s my go-to operating system for development, where I make extensive use of the Windows Subsystem for Linux (WSL) and the Windows Terminal. I also use PowerShell, which I’ve customized with my own configurations built from and modules scratch, to create a highly efficient and personalized terminal environment.
+> I grew up with Windows and it holds a special place in my heart. but I currently use macOS as my primary development environment.
 
 <div class="table-devenvironment">
   <table style="font-size: 11px">
@@ -66,10 +66,8 @@ Whenever I write documentation, I try to keep the following steps in mind to ens
 
 Accelerating my workflow and productivity on Windows with the following tools and configurations:
 
-  ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
-  ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-  ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-  ![WSL](https://img.shields.io/badge/-WSL-0D1117?style=flat&logo=windows-subsystem-for-linux&logoColor=FCC624)
+  ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=microsoft&logoColor=white)
+  ![macOS](https://img.shields.io/badge/-macOS-0078D4?style=flat&logo=apple&logoColor=white)
   ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
   </td>
