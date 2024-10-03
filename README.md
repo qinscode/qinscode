@@ -1,18 +1,18 @@
 [![header](./banner.png)](https://aar.one)
 
-# Oi, World! I'm Aaron 👋
+# Hello, World! I'm Jack 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=ahrwn&label=Profile%20views&color=60598F&style=flat)
 
 <div class="github-introduction">
 
-I'm a **Web Developer** with a passion for bringing ideas to life in the browser. Growing up in the '90s and early 2000s, I fell in love with the internet, and that passion has driven me to design and develop websites and web applications that are **fast**, **responsive**, and **accessible** to everyone. I specialize in creating websites for clients with functionalities such as booking systems for apartments, hotels, restaurants, and more.
+I'm a **Full Stack Developer** with a passion for bringing ideas to life in the browser. Growing up in the '90s, I fell in love with the internet, and that passion has driven me to design and develop websites and web applications that are fast**, responsive, and accessible to everyone. I specialize in creating websites for clients with functionalities such as booking systems for apartments, hotels, restaurants, and more.
 
 Additionally, I'm currently diving into the world of DevOps, expanding my skill set to streamline development processes and improve deployment efficiency.
 
 </div>
 
-- 💼 Interested in working together? Reach out to me via <a href="mailto:code@aar.one">email.</a>
+- 💼 Interested in working together? Reach out to me via <a href="mailto:hello@fudong.dev">email.</a>
 - 💬 Got a question or just curious about something? Feel free to ask!
 
 <div class="badges-intro">
@@ -24,9 +24,8 @@ Additionally, I'm currently diving into the world of DevOps, expanding my skill 
 
 ## 🌟 Featured Projects
 
-- **[Violet Void Theme](https://github.com/aaronedev/violet-void-theme)** 🟣: **Violet Void Theme** is a set of configuration files designed to give Windows an amazing visual overhaul with a sleek, violet-toned aesthetic. This theme applies consistent violet tones throughout the interface, providing a unique and cohesive look that enhances the user experience. In addition to the visual enhancements, I’ve also integrated several Linux-like functionalities into Windows, making the operating system more powerful and customizable for advanced users. Furthermore, I am working on custom glyphs to enhance the [Windows Terminal](https://github.com/microsoft/terminal) experience, making it more visually appealing and user-friendly.
+- **[Job Application Tracker](https://github.com/aaronedev/violet-void-theme)** 👨‍💻: Job Application Tracker is a project that helps individuals efficiently manage their job application process. The project includes features to track job postings, application statuses, interview schedules, and communications with potential employers. It is built using a .NET backend, specifically .NET 7, with a PostgreSQL database for storing relevant data. The project also incorporates a frontend built using React along with Shadcn for modern and reusable UI components, TailwindCSS for highly customizable and responsive styling, and Redux for managing application state effectively.
 
-- I am working on a comprehensive **PowerShell profile** that integrates all my custom configurations into a powerful and cohesive setup. This profile is designed to streamline workflows and enhance productivity by leveraging the full potential of PowerShell, combined with my Violet Void Theme. Additionally, I am developing this profile to be fully featured and driven by Linux-like commands, bringing the familiarity and efficiency of Linux command-line tools to the Windows environment. Once finalized, I plan to publish this profile so that others can benefit from a fully optimized and visually appealing PowerShell environment.
 
 ## 📈 My GitHub stats
 
