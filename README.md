@@ -79,11 +79,10 @@ Whenever I write documentation, I try to keep the following steps in mind to ens
   <tr>
   <td valign="top" width="50%">
 
-#### 🖥️ Windows PowerUser
+#### 🖥️ macOS PowerUser
 
-Accelerating my workflow and productivity on Windows with the following tools and configurations:
+Accelerating my workflow and productivity on macOS with the following tools and configurations:
 
-  ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=microsoft&logoColor=white)
   ![macOS](https://img.shields.io/badge/-macOS-0078D4?style=flat&logo=apple&logoColor=white)
   ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
