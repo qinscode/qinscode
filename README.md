@@ -32,8 +32,8 @@ Additionally, I'm currently diving into the world of DevOps, expanding my skill 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+<code><img width="10%" src="https://www.bizstream.com/wp-content/uploads/2022/04/microsoft-azure-logo.png"></code>
+<code><img width="6%" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
