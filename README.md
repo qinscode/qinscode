@@ -83,9 +83,11 @@ Whenever I write documentation, I try to keep the following steps in mind to ens
 
 Accelerating my workflow and productivity on macOS with the following tools and configurations:
 
-  ![macOS](https://img.shields.io/badge/-macOS-0078D4?style=flat&logo=apple&logoColor=white)
-  ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+  ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white)
+  ![WebStorm](https://img.shields.io/badge/-WebStorm-07c3f2?style=flat&logo=webstorm&logoColor=white)
+  ![Idea](https://img.shields.io/badge/-Idea-ff2960?style=flat&logo=intellijidea&logoColor=white)
+  ![Rider](https://img.shields.io/badge/-Rider-f89c1b?style=flat&logo=rider&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-f44b28?style=flat&logo=git&logoColor=white)
   </td>
   <td valign="top" width="50%">
 
