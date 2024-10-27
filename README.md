@@ -45,6 +45,15 @@ Additionally, I'm currently diving into the world of DevOps, expanding my skill 
 
 - **[Job Application Tracker](https://github.com/aaronedev/violet-void-theme)** 👨‍💻: Job Application Tracker is a project that helps individuals efficiently manage their job application process. The project includes features to track job postings, application statuses, interview schedules, and communications with potential employers. It is built using a .NET backend, specifically .NET 7, with a PostgreSQL database for storing relevant data. The project also incorporates a frontend built using React along with Shadcn for modern and reusable UI components, TailwindCSS for highly customizable and responsive styling, and Redux for managing application state effectively.
 
+- **[Swift Note](https://github.com/qinscode/SwiftNote)**
+
+- **[Seek Spider](https://github.com/qinscode/SeekSpider)** 
+
+- **[Curricum Rules Management System](https://github.com/qinscode/UWA-Curriculum-Rules-Management-System)**
+ 
+
+
+
 ## 📈 My GitHub stats
 
 <div class="badges-githubstats">
