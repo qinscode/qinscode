@@ -6,7 +6,7 @@
 
 <div class="github-introduction">
 
-I'm a **Full Stack Developer** with a passion for bringing ideas to life in the browser. Growing up in the '90s, I fell in love with the internet, and that passion has driven me to design and develop websites and web applications that are fast\*\*, responsive, and accessible to everyone. I specialize in creating websites for clients with functionalities such as booking systems for apartments, hotels, restaurants, and more.
+I'm a **Full Stack Developer** with a passion for bringing ideas to life in the browser. Growing up in the '95s, I fell in love with the internet, and that passion has driven me to design and develop websites and web applications that are fast, responsive, and accessible to everyone. I specialize in creating websites for clients with functionalities such as booking systems for apartments, hotels, restaurants, and more.
 
 Additionally, I'm currently diving into the world of DevOps, expanding my skill set to streamline development processes and improve deployment efficiency.
 
