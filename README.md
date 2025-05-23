@@ -6,7 +6,7 @@
 
 <div class="github-introduction">
 
-I’m a Full Stack Developer with 3 years of experience and a passion for bringing ideas to life in the browser. Growing up in the ’95s, I developed a deep appreciation for the internet, which inspired my journey into web development. Today, I specialize in building fast, responsive, and accessible websites and web applications.
+I’m a **Full Stack Developer** with 3 years of experience and a passion for bringing ideas to life in the browser. Growing up in the ’95s, I developed a deep appreciation for the internet, which inspired my journey into web development. Today, I specialize in building fast, responsive, and accessible websites and web applications.
 
 Additionally, I'm currently diving into the world of DevOps, expanding my skill set to streamline development processes and improve deployment efficiency.
 
