@@ -34,8 +34,7 @@ I'm a **Full Stack Developer** building enterprise-grade IoT and SaaS platforms.
 <details open>
 <summary><b>Mobile</b></summary>
 <br>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/expo/expo-ar21.svg"></code>
+<code><img width="4%" src="https://toppng.com/download/tSZ1pNaZR54vsEbE6pKStqNGaZBGy660lCnncPFaebtKbjrWG2YYyGnp1csQ32uWKBUG9ESaEUlVRb5EYThroksbQEyOxOjqzSKHFUY4OdojmbqkuYjVvswYOeqVze8JGPR0qBhc9D1oODNYKs9r8F5hnQBmgpzWDT1Y8cYgxY8BRCCc9lFQ8ufWSNRBroVBaMRgViJ8/large"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
 </details>
 
@@ -45,7 +44,7 @@ I'm a **Full Stack Developer** building enterprise-grade IoT and SaaS platforms.
 <code><img width="10%" src="https://www.bizstream.com/wp-content/uploads/2022/04/microsoft-azure-logo.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img width="4%" src="https://www.pngaaa.com/api-download/4882357"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg"></code>
 </details>
 
@@ -58,13 +57,13 @@ I'm a **Full Stack Developer** building enterprise-grade IoT and SaaS platforms.
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 </details>
 
-<details>
+<details open>
 <summary><b>Languages</b></summary>
 <br>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></code>
-<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"></code>
+<code><img width="6%" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
 </details>
 
@@ -74,9 +73,9 @@ I'm a **Full Stack Developer** building enterprise-grade IoT and SaaS platforms.
 
 An end-to-end environmental dust monitoring platform serving major mining operations across Australia. Processes millions of IoT telemetry events daily, delivering real-time dust heatmaps, flow meter analytics, and automated compliance reporting.
 
-- **[Dust IQ Web Dashboard]** — Operations dashboard for realtime dust monitoring with interactive satellite heatmaps
+- **Dust IQ Web Dashboard** — Operations dashboard for realtime dust monitoring with interactive satellite heatmaps
 - 
-- **[Dust IQ Mobile]** — iOS and Android field operator app providing live dust heatmaps, site-level monitoring
+- **Dust IQ Mobile** — iOS and Android field operator app providing live dust heatmaps, site-level monitoring
 
 ### More Projects
 
@@ -94,7 +93,6 @@ An end-to-end environmental dust monitoring platform serving major mining operat
 
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=qinscode&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="qinscode's Stats" height="165">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=qinscode&theme=tokyonight&hide_border=true" alt="qinscode's Streak" height="165">
   </p>
 </div>
