@@ -4,67 +4,93 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=qinscode&label=Profile%20views&color=brightgreen&style=flat&base=314)
 
-<div class="github-introduction">
+I'm a **Full Stack Developer** building enterprise-grade IoT and SaaS platforms. Currently leading **Dust IQ**, a live dust monitoring platform serving major mining operations across Australia.
 
-I’m a **Full Stack Developer** with 4 years of experience and a passion for bringing ideas to life in the browser. Growing up in the ’95s, I developed a deep appreciation for the internet, which inspired my journey into web development. Today, I specialize in building fast, responsive, and accessible websites and web applications.
-
-Additionally, I'm currently diving into the world of DevOps, expanding my skill set to streamline development processes and improve deployment efficiency.
-
-</div>
-
-- 💼 Interested in working together? Reach out to me via <a href="mailto:hello@fudong.dev">email.</a>
+- 💼 Interested in working together? Reach out via <a href="mailto:hello@fudong.dev">email.</a>
 - 💬 Got a question or just curious about something? Feel free to ask!
 
-<div class="badges-intro">
-<!-- Frontend -->
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>Frontend</b></summary>
+<br>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></code>
-<!-- Cross Platform -->
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
-<!--  Backend -->
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-<!-- Lanaguage -->
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-<!-- Database -->
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21.svg"></code>
+</details>
+
+<details open>
+<summary><b>Backend & APIs</b></summary>
+<br>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
+</details>
+
+<details open>
+<summary><b>Mobile</b></summary>
+<br>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/expo/expo-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+</details>
+
+<details open>
+<summary><b>Cloud & DevOps</b></summary>
+<br>
+<code><img width="10%" src="https://www.bizstream.com/wp-content/uploads/2022/04/microsoft-azure-logo.png"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg"></code>
+</details>
+
+<details open>
+<summary><b>Data & Messaging</b></summary>
+<br>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg"></code>
-<!--  Cloud -->
-<code><img width="10%" src="https://www.bizstream.com/wp-content/uploads/2022/04/microsoft-azure-logo.png"></code>
-<code><img width="6%" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"></code>
-<!--  DevOps -->
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
-</div>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+</details>
+
+<details>
+<summary><b>Languages</b></summary>
+<br>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></code>
+<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
+</details>
 
 ## 🌟 Featured Projects
 
-- **[CCBuddy](https://github.com/qinscode/ccbuddy)** 🖥️: Native macOS menu bar app for monitoring Claude Code token usage and costs in real time. Supports Pro/Max and API modes with beautiful glass-effect UI, usage charts, and burn rate tracking. Built with SwiftUI, runs 100% locally. ✨
+### Dust IQ Platform
 
-- **[Job Application Tracker](https://github.com/qinscode/jobtracker)** 👨‍💻: Keep all your job applications organized in one place. Built with .NET 7, React, and Tailwind CSS. Track applications, schedule interviews, and never miss a follow-up! 📅
+An end-to-end environmental dust monitoring platform serving major mining operations across Australia. Processes millions of IoT telemetry events daily, delivering real-time dust heatmaps, flow meter analytics, and automated compliance reporting.
 
-- **[Zephyr](https://github.com/qinscode/Zephyr)** 📝: A clean and intuitive note-taking app for capturing ideas on the fly. Features colorful folders, smart tags, quick search, and bank-level encryption. Simple yet powerful! 🚀
+- **[Dust IQ Web Dashboard]** — Operations dashboard for realtime dust monitoring with interactive satellite heatmaps
+- 
+- **[Dust IQ Mobile]** — iOS and Android field operator app providing live dust heatmaps, site-level monitoring
 
-- **[Seek Spider](https://github.com/qinscode/SeekSpider)** 🕷️: Python web crawler that scrapes job listings from Seek.com.au. Built with Scrapy and MySQL, smart enough to handle rate limiting. Just run and watch the jobs roll in! ☕
+### More Projects
 
-- **[Curriculum Rules Management System](https://github.com/qinscode/UWA-Curriculum-Rules-Management-System)** 🎓: Web app for managing university course rules with drag-and-drop interface and auto-generated PDFs. Built with Next.js and NestJS. Live at curriculum-app.fudong.dev 📚
- 
+- **[CCBuddy](https://github.com/qinscode/ccbuddy)** 🖥️ — Native macOS menu bar app for monitoring Claude Code token usage and costs in real time. Supports Pro/Max and API modes with glass-effect UI, usage charts, and burn rate tracking. Built with SwiftUI, runs 100% locally.
 
+- **[Job Application Tracker](https://github.com/qinscode/jobtracker)** 👨‍💻 — Full-stack job application management platform. Track applications, schedule interviews, and organize follow-ups. Built with .NET 7, React, and Tailwind CSS.
 
+- **[Zephyr](https://github.com/qinscode/Zephyr)** 📝 — A clean note-taking app with colorful folders, smart tags, quick search, and encryption. Simple yet powerful.
 
-## 📈 My GitHub stats
+- **[Seek Spider](https://github.com/qinscode/SeekSpider)** 🕷️ — Python web crawler for scraping job listings from Seek.com.au. Built with Scrapy and MySQL, with rate limiting handling.
+
+- **[Curriculum Rules Management System](https://github.com/qinscode/UWA-Curriculum-Rules-Management-System)** 🎓 — University course rule management with drag-and-drop interface and auto-generated PDFs. Built with Next.js and NestJS.
+
+## 📈 GitHub Stats
 
 <div class="badges-githubstats">
   <p align="center">
@@ -73,52 +99,38 @@ Additionally, I'm currently diving into the world of DevOps, expanding my skill 
   </p>
 </div>
 
-## 📃 I love documentation
-
-Not many developers like to write documentation, but I do. I believe that a well-documented codebase is as important as the code itself. It’s like a story, telling what the code can do and how it works. I always try to write clear, concise, and useful documentation. My go-to documentation tool is <a href="https://obsidian.md/" target="_blank">Obsidian.md</a>.
-
-Whenever I write documentation, I try to keep the following steps in mind to ensure the reader gets the most out of it:
-
-1. **What** is this documentation about?
-2. **Why** is this documentation important?
-3. **How** can the reader use this documentation?
-4. **When** should the reader use this documentation?
-5. **Who** is this documentation for?
-
-![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat&logo=obsidian&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
-
-### <p align="center">⚙️ My development environment </p>
-
-> I grew up with Windows and it holds a special place in my heart. but I currently use macOS as my primary development environment.
+## ⚙️ Development Environment
 
 <div class="table-devenvironment">
   <table style="font-size: 11px">
   <tr>
   <td valign="top" width="50%">
 
-#### 🖥️ macOS PowerUser
+#### 🖥️ macOS
 
-Accelerating my workflow and productivity on macOS with the following tools and configurations:
+Primary development environment — full-stack TypeScript, .NET, and mobile development.
 
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white)
-![WebStorm](https://img.shields.io/badge/-WebStorm-07c3f2?style=flat&logo=webstorm&logoColor=white)
-![Idea](https://img.shields.io/badge/-Idea-ff2960?style=flat&logo=intellijidea&logoColor=white)
+![Warp](https://img.shields.io/badge/-Warp-01A3D3?style=flat&logo=warp&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Rider](https://img.shields.io/badge/-Rider-f89c1b?style=flat&logo=rider&logoColor=white)
+![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-f44b28?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-d97706?style=flat&logo=anthropic&logoColor=white)
 
   </td>
   <td valign="top" width="50%">
 
-#### 🐧 Linux Enthusiast
+#### 🐧 Linux & Cloud
 
-I love working with Linux, and I'm always exploring new things in the vast open-source world.
+Server infrastructure, CI/CD runners, and production deployments on Azure.
 
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
   </td>
   </tr>
