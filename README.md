@@ -44,7 +44,6 @@ I'm a **Full Stack Developer** building enterprise-grade IoT and SaaS platforms.
 <code><img width="10%" src="https://www.bizstream.com/wp-content/uploads/2022/04/microsoft-azure-logo.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
-<code><img width="4%" src="https://www.pngaaa.com/api-download/4882357"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg"></code>
 </details>
 
