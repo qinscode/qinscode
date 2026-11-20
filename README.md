@@ -21,50 +21,30 @@ I build **Dust IQ**, a dust monitoring platform for mine sites across Australia.
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h4><a href="https://github.com/qinscode/SeekSpider">SeekSpider</a> <a href="https://github.com/qinscode/SeekSpider/stargazers"><img src="https://img.shields.io/github/stars/qinscode/SeekSpider?style=flat&label=%E2%98%85&color=f59e0b" alt="GitHub stars" align="right"></a></h4>
       Scrapes IT job listings from Seek.com.au on a schedule, across Australian cities, then uses AI to pull out tech stacks and normalise salaries.
       <br><br>
       <code>Python</code> <code>Scrapy</code> <code>PostgreSQL</code>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/qinscode/ccbuddy">CCBuddy</a></h4>
       macOS menu bar app that shows Claude Code token usage and cost in real time, for both subscription and API billing. Everything stays on your machine.
       <br><br>
       <code>Swift</code> <code>SwiftUI</code>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/qinscode/PackPilot">PackPilot</a></h4>
       macOS launcher for monorepos. Point it at a folder and it finds every <code>package.json</code>, then starts, stops and restarts scripts with live logs in one window.
       <br><br>
       <code>Swift</code> <code>npm · pnpm · yarn · bun</code>
     </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/qinscode/GitHubRepoAnalyzer">GitHub Repo Analyzer</a></h4>
-      Desktop app that digs into the metrics of GitHub repositories, one at a time or in batches.
-      <br><br>
-      <code>React</code> <code>TypeScript</code> <code>Tauri</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/qinscode/ApplyTrack">ApplyTrack</a></h4>
-      Job application tracker: applications, documents, history and analytics of the local IT job market in one dashboard.
-      <br><br>
-      <code>React</code> <code>TypeScript</code> <code>shadcn/ui</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/qinscode/UWA-Curriculum-Rules-Management-System">Curriculum Rules</a></h4>
-      Course rule management for a university: nested rule hierarchies edited by drag and drop, with the formatted documents generated as PDFs.
-      <br><br>
-      <code>Next.js</code> <code>NestJS</code>
-    </td>
   </tr>
 </table>
 
-Also: [UWA MIT Study Planner](https://github.com/qinscode/uwa-study-planner) (drag-and-drop course planning with prerequisite checks) and [FishFlow](https://github.com/qinscode/fishflow) (a fishing log with a collect-them-all fish guide, built with Expo).
+Also: [FishFlow](https://github.com/qinscode/fishflow), a fishing log with a collect-them-all fish guide, built with Expo.
 
 ## Toolbox
 
